@@ -1,7 +1,21 @@
 .blue {
+
+  background-color: #79a8ff;
+}
+.red {
+  background-color: #ff5151;
+}
+/* h2 {
+  color: rgb(151, 19, 41);
+  background-color: white;
+  border: 5px solid green;
+  width: 50%;
+} */
+
     background-color: #79a8ff;
   }
   .red {
     background-color: #ff5151;
     color: aliceblue;
   }
+
