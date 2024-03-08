@@ -1,4 +1,5 @@
 .blue {
+
   background-color: #79a8ff;
 }
 .red {
@@ -10,3 +11,11 @@
   border: 5px solid green;
   width: 50%;
 } */
+
+    background-color: #79a8ff;
+  }
+  .red {
+    background-color: #ff5151;
+    color: aliceblue;
+  }
+
