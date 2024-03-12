@@ -1,10 +1,10 @@
 .blue {
 
-  background-color: #79a8ff;
+  background-color: gray;
 }
-.red {
+/* .red {
   background-color: #ff5151;
-}
+} */
 /* h2 {
   color: rgb(151, 19, 41);
   background-color: white;
@@ -12,22 +12,22 @@
   width: 50%;
 } */
 
-    background-color: #79a8ff;
-  }
+
+  
   .red {
     background-color: #ff5151;
   }
-  h1 {
-color: aquamarine;
+  h1, h3 {
+color: purple;
   }
-  h3 {
-    color: green;
-      }
+ 
 
 
     .mike-theme{
-      color: yellow;
+      color: rgb(115, 0, 255);
       font-size: larger;
       
     }
-
+  .image { 
+    margin-left: 50px;
+    }
